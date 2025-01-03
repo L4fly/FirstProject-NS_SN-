@@ -1,7 +1,7 @@
  <h1>Procure-se O Numero Secreto</h1>
 
 <h2> 🚀 Sobre </h2>
-<p>Basicamente um novato apredendo a usar as ferramentas do github </p>
+<p>Basicamente um novato apredendo a usar as ferramentas do github , HTML e javascript </p>
 
 ## 🚀 Tecnologias De Apendizagem
 <div>
